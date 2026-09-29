@@ -18,6 +18,10 @@ The research contribution here isn't a new matching algorithm. Gale-Shapley and 
 - [ ] Real vs synthetic data question resolved
 - [ ] Primary worked domain confirmed (proposing: student-to-project/supervisor allocation)
 
+## Decision log
+
+**2026-09-29: Charles vs Emlyn/portal fork.** Charles offered two directions: a research-investigation project with him (algorithm variations, evaluation, ethics, matches the rest of this plan), or moving over to Emlyn to focus on integrating the allocator into MU's actual portal. Leaning towards staying with Charles: it's the scope already planned in detail here, the risk stays inside my own control rather than depending on portal access I haven't scoped, and real deployment was already a stretch goal below rather than something the core project was betting on. Portal integration stays on the table as a stretch item if time allows and Emlyn's happy to advise on just that piece. Not yet confirmed with Charles.
+
 ## Timeline
 
 **Late Sept to mid-Oct: landing phase**
